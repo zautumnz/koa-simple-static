@@ -2,8 +2,6 @@
 
 Simple caching static file server for Koa
 
-[![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/zacanger) [![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger)
-
 --------
 
 Similar to koa-static-cache, but with different options, better API,
